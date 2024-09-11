@@ -6,7 +6,10 @@
 ![Gabriel.py GitHub stats](https://github-readme-stats.vercel.app/api?username=GabigolDEVPY&show_icons=true&theme=dark
 )
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabigolDEVPY)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias 
+
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
