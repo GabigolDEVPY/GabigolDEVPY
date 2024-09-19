@@ -61,6 +61,9 @@
 <br clear="both">
 
 <p align="center">
-  <!-- Certifique-se de que a imagem snake.svg está sendo gerada no branch output -->
-  <img src="https://raw.githubusercontent.com/GabigolDEVPY/GabigolDEVPY/output/snake.svg" alt="Snake animation" style="max-width: 100%; height: auto;" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
