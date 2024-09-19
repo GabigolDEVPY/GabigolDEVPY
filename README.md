@@ -24,7 +24,8 @@
     <img src="https://profile-counter.glitch.me/GabigolDEVPY/count.svg?" />
 </div>
 
-# Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+### <p align="center"># Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </p>
+
 
 <div align="center" style="border: 3px solid rgba(255, 0, 255, 0.5); border-radius: 15px; padding: 20px; background: linear-gradient(45deg, rgba(255, 0, 255, 0.2), rgba(0, 255, 255, 0.2)); box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.4);">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo" />
