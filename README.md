@@ -72,3 +72,7 @@
         <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
     </picture>
 </p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabigolDEVPY)](https://github.com/GabigolDEVPY/github-readme-stats)
+
