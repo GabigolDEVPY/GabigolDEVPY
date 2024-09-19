@@ -10,6 +10,8 @@
     <span style="font-size: 30px; color: #FFD700;">🔧 Entusiasta da Informática 💻</span>
 </p>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <p align="center" style="font-size: 28px; font-weight: bold; color: #FF4500; text-shadow: 1px 1px 6px #000;">🔥 MINHAS ESTATÍSTICAS:</p>
 
 <div align="center">
@@ -23,6 +25,8 @@
 <div align="center">
     <img src="https://profile-counter.glitch.me/GabigolDEVPY/count.svg?" />
 </div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 ### <p align="center"># Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </p>
 
@@ -41,6 +45,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
 <p align="center" style="font-size: 28px; font-weight: bold; color: #FF4500; text-shadow: 1px 1px 6px #000;">SOCIAL 🌍:</p>
 
 <div align="center">
@@ -54,6 +61,9 @@
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram logo" />
     </a>
 </div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 <p align="center">
     <picture>
