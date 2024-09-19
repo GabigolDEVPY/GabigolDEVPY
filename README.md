@@ -52,6 +52,4 @@
     </picture> 
 </p>
 
-<p align="center">
-    <strong>[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabigolDEVPY)](https://github.com/GabigolDEVPY/github-readme-stats)</strong>
-</p>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabigolDEVPY)](https://github.com/GabigolDEVPY/github-readme-stats)
