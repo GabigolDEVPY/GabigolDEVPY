@@ -1,10 +1,10 @@
 <p align="center"> 
     <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=header&text=Olá!%20Eu%20sou%20Gabriel&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35" /> 
 </p> 
-<p align="center" style="font-size: 24px; font-weight: bold;"> 
-    Oi 👋, Eu sou **Gabriel**.<br> 
-    📚 **Análise e Desenvolvimento de Sistemas**<br> 
-    🔧 **Entusiasta da Informática** 💻 
+<p align="center" style="font-size: 40px; font-weight: bold;"> 
+    Oi 👋, Eu sou Gabriel.<br> 
+    📚 Análise e Desenvolvimento de Sistemas<br> 
+    🔧 Entusiasta da Informática 💻 
 </p>
 <p align="center" style="font-size: 24px; font-weight: bold;">🔥 MINHAS ESTATÍSTICAS:</p> 
 <div align="center"> 
