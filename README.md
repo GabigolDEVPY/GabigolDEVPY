@@ -1,78 +1,114 @@
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=150&section=header&text=Olá!%20Eu%20sou%20Gabriel&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<p align="center" style="font-size: 50px; font-weight: bold; color: #00FF00; text-shadow: 2px 2px 8px #000;">
-    Oi 👋, Eu sou Gabriel.
-    <br>
-    <span style="font-size: 30px; color: #FFD700;">📚 Análise e Desenvolvimento de Sistemas</span>
-    <br>
-    <span style="font-size: 30px; color: #FFD700;">🔧 Entusiasta da Informática 💻</span>
-</p>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<p align="center" style="font-size: 28px; font-weight: bold; color: #FF4500; text-shadow: 1px 1px 6px #000;">🔥 MINHAS ESTATÍSTICAS:</p>
-
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=GabigolDEVPY&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="140" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabigolDEVPY&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph" />
-    <img src="https://github-profile-trophy.vercel.app?username=GabigolDEVPY&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabigolDEVPY&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph" />
-    <img src="https://streak-stats.demolab.com?user=GabigolDEVPY&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Gabriel%20Rocha%20Dias&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20%7C%20Analista%20de%20Sistemas&descAlignY=51&descAlign=50" />
 </div>
 
 <div align="center">
-    <img src="https://profile-counter.glitch.me/GabigolDEVPY/count.svg?" />
-</div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-### <p align="center"># Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </p>
-
-
-<div align="center" style="border: 3px solid rgba(255, 0, 255, 0.5); border-radius: 15px; padding: 20px; background: linear-gradient(45deg, rgba(255, 0, 255, 0.2), rgba(0, 255, 255, 0.2)); box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.4);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  
+  ### 👨‍💻 Sobre Mim
+  
+  ```typescript
+  const gabriel = {
+    formação: "Análise e Desenvolvimento de Sistemas",
+    áreas: ["Desenvolvimento Web", "Backend", "Automação"],
+    ferramentas: ["Python", "JavaScript", "Git", "GitHub"],
+    aprendendo: ["React", "Node.js", "TypeScript"],
+    hobbies: ["Coding", "Open Source", "Tech News"]
+  };
+  ```
+  
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+---
 
-
-<p align="center" style="font-size: 28px; font-weight: bold; color: #FF4500; text-shadow: 1px 1px 6px #000;">SOCIAL 🌍:</p>
+### 📊 Estatísticas GitHub
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/gabrielrochadias" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo" />
-    </a>
-    <a href="https://discord.com/users/SeuID" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="40" alt="discord logo" />
-    </a>
-    <a href="https://www.instagram.com/gabrielrochadias.py" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram logo" />
-    </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabigolDEVPY&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabigolDEVPY&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabigolDEVPY&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=ff6b6b&currStreakLabel=c9d1d9" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabigolDEVPY&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9&area=true&area_color=1f6feb" />
+</div>
 
-<p align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    </picture>
-</p>
+---
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabigolDEVPY)](https://github.com/GabigolDEVPY/github-readme-stats)
+### 🛠️ Stack Tecnológico
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<div align="center">
+
+#### Linguagens
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+
+#### Ferramentas & Tecnologias
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
+#### Aprendendo
+<img src="https://skillicons.dev/icons?i=react,nodejs,typescript,docker" />
+
+</div>
+
+---
+
+### 🏆 Conquistas
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GabigolDEVPY&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+### 📈 Atividade de Código (WakaTime)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GabigolDEVPY&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact" />
+</div>
+
+---
+
+### 🌐 Conecte-se Comigo
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielrochadias)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielrochadias.py)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/SeuID)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabigolDEVPY)
+  
+</div>
+
+---
+
+### 🐍 Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabigolDEVPY/GabigolDEVPY/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabigolDEVPY/GabigolDEVPY/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabigolDEVPY/GabigolDEVPY/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+### 💡 Quote do Dia
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+<div align="center">
+  
+  ![Visitor Count](https://profile-counter.glitch.me/GabigolDEVPY/count.svg)
+  
+  ### ⭐ Se gostou do meu trabalho, deixe uma estrela nos repositórios!
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" />
+  
+</div>
